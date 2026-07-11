@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/icon128.png" alt="VDownloader Logo" width="96">
+  <img src="https://i.postimg.cc/fyz59fLm/icon128.png" alt="VDownloader Logo" width="96">
   <h1>VDownloader</h1>
   <p><strong>YouTube video/audio downloader — Browser Extension + Local Server</strong></p>
   <p>
@@ -45,15 +45,15 @@ No cloud services, no third-party websites, no ads — everything runs locally o
 
 | Format Selection | Playlist Manager | Settings |
 |:---:|:---:|:---:|
-| <img src="screenshots/video-audio.png" width="220" alt="Video+Audio"> | <img src="screenshots/playlist.png" width="220" alt="Playlist"> | <img src="screenshots/settings.png" width="220" alt="Settings"> |
+| <img src="https://i.postimg.cc/RhgdQJ6b/video-only.png" width="220" alt="Video+Audio"> | <img src="https://i.postimg.cc/90m17YM8/playlist.png" width="220" alt="Playlist"> | <img src="https://i.postimg.cc/fy8CjSt2/settings.png" width="220" alt="Settings"> |
 
 | Audio Only | Video Only | Playlist Quality |
 |:---:|:---:|:---:|
-| <img src="screenshots/audio-only.png" width="220" alt="Audio Only"> | <img src="screenshots/video-only.png" width="220" alt="Video Only"> | <img src="screenshots/playlist-quality.png" width="220" alt="Playlist Quality"> |
+| <img src="https://i.postimg.cc/Y0r8Wz9h/audio-only.png" width="220" alt="Audio Only"> | <img src="https://i.postimg.cc/RhgdQJ6b/video-only.png" width="220" alt="Video Only"> | <img src="https://i.postimg.cc/cCxTnBHB/playlist-video-quality.png" width="220" alt="Playlist Quality"> |
 
 | Server Logs |
 |:---:|
-| <img src="screenshots/server-logs.png" width="440" alt="Server Logs"> |
+| <img src="https://i.postimg.cc/d356mZkN/sever-Logs.png" width="440" alt="Server Logs"> |
 
 </div>
 
