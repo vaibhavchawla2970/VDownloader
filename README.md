@@ -10,10 +10,7 @@
     <a href="#how-it-works">How It Works</a> •
     <a href="#usage">Usage</a>
   </p>
-  <p>
-    <a href="https://vdownloader-yt.netlify.app/" target="_blank">:globe_with_meridians: Website</a> •
-    <a href="https://github.com/vaibhavchawla2970/VDownloader" target="_blank">:octocat: GitHub</a>
-  </p>
+  <a href="https://vdownloader-yt.netlify.app/" target="_blank" style="display:inline-block;background:#1a73e8;color:#fff;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:600;font-size:15px;margin:8px 0">Visit Website</a>
 </div>
 
 ---
