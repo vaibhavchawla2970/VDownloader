@@ -10,7 +10,7 @@
     <a href="#how-it-works">How It Works</a> •
     <a href="#usage">Usage</a>
   </p>
-  <a href="https://vdownloader-yt.netlify.app/" target="_blank" style="display:inline-block;background:#1a73e8;color:#fff;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:600;font-size:15px;margin:8px 0">Visit Website</a>
+  <a href="https://vdownloader-yt.netlify.app/" target="_blank" style="display:inline-flex;align-items:center;gap:8px;background:#ff0000;color:#fff;padding:14px 32px;border-radius:10px;text-decoration:none;font-weight:600;font-size:16px;margin:10px 0;transition:background .2s" onmouseover="this.style.background='#ff2222'" onmouseout="this.style.background='#ff0000'">Website</a>
 </div>
 
 ---
