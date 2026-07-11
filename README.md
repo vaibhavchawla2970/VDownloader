@@ -10,6 +10,10 @@
     <a href="#how-it-works">How It Works</a> •
     <a href="#usage">Usage</a>
   </p>
+  <p>
+    <a href="https://vdownloader-yt.netlify.app/" target="_blank">:globe_with_meridians: Website</a> •
+    <a href="https://github.com/vaibhavchawla2970/VDownloader" target="_blank">:octocat: GitHub</a>
+  </p>
 </div>
 
 ---
@@ -231,25 +235,38 @@ Enable **Use Browser Cookies** in Settings if you need to download age-restricte
 
 ```
 VDownloader/
-├── extension-chrome-brave-edge.zip   # Chrome/Brave/Edge package (load unpacked)
-├── extension-firefox.zip             # Firefox package (temporary add-on)
-├── server_v1.3.0/                    # [Download separately] Python download server
-│   ├── server.py                     # FastAPI server (yt-dlp wrapper)
-│   └── start_server.bat              # Windows one-click launcher
-├── screenshots/                      # Screenshots and demo
-│   ├── icon128.png                   # Logo
-│   ├── video-audio.png               # Screenshot
-│   ├── audio-only.png                # Screenshot
-│   ├── video-only.png                # Screenshot
-│   ├── playlist.png                  # Screenshot
-│   ├── playlist-quality.png          # Screenshot
-│   ├── settings.png                  # Screenshot
-│   ├── server-logs.png               # Screenshot
-│   └── demo.mp4                      # Demo video
-└── README.md                         # This file
+├── extension_v1.3.0/          # Source files for the extension
+│   ├── manifest.json          # Extension manifest (MV3)
+│   ├── popup.html             # Extension popup UI
+│   ├── popup.js               # Popup logic
+│   ├── background.js          # Background service worker (relay)
+│   ├── content.js             # Content script (video detection)
+│   ├── styles.css             # Popup styles
+│   └── icon*.png              # Extension icons
+│
+├── extension-chrome-brave-edge.zip   # Chrome/Brave/Edge package
+├── extension-firefox.zip             # Firefox package
+│
+├── server_v1.3.0/             # Python download server
+│   ├── server.py              # FastAPI server (yt-dlp wrapper)
+│   └── start_server.bat       # Windows one-click launcher
+│
+├── Images and videos/         # Screenshots and demo
+│   ├── icon128.png            # Logo
+│   ├── video+audio.png        # Screenshot
+│   ├── audio only.png         # Screenshot
+│   ├── video only.png         # Screenshot
+│   ├── playlist.png           # Screenshot
+│   ├── playlist video quality.png  # Screenshot
+│   ├── settings.png           # Screenshot
+│   ├── sever Logs.png         # Screenshot
+│   └── demo.mp4               # Demo video
+│
+├── index.html                 # Landing page
+├── styles.css                 # Landing page styles
+├── script.js                  # Landing page scripts
+└── README.md                  # This file
 ```
-
-> **Note:** Download the `server_v1.3.0` folder from the [releases](../../releases) section or the repository root. It contains `server.py` and `start_server.bat`.
 
 ---
 
