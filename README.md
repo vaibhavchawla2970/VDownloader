@@ -1,4 +1,4 @@
-<div align="center">
+\<div align="center">
   <img src="https://i.postimg.cc/fyz59fLm/icon128.png" alt="VDownloader Logo" width="96">
   <h1>VDownloader</h1>
   <p><strong>YouTube video/audio downloader — Browser Extension + Local Server</strong></p>
