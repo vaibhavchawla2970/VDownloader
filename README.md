@@ -5,7 +5,6 @@
   <p>
     <a href="#screenshots">Screenshots</a> •
     <a href="#features">Features</a> •
-    <a href="#prerequisites">Prerequisites</a> •
     <a href="#installation">Installation</a> •
     <a href="#how-it-works">How It Works</a> •
     <a href="#usage">Usage</a>
